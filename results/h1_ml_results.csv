@@ -1,0 +1,8 @@
+name,CV_R2,Test_R2,RMSE
+H1 vector + 物理,0.586,0.572,817
+H1 targeted + 物理,0.698,0.641,301
+H2 vector + 物理 (参照),0.648,0.602,814
+H1 vector + H2 vector + 物理,0.665,0.61,777
+RDF + z密度 + 物理 (最良H2),0.727,0.618,351
+H1 vector + RDF + z密度 + 物理,0.727,0.619,388
+H1 targeted + RDF + z密度 + 物理,0.74,0.624,256

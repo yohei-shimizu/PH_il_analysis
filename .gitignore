@@ -1,0 +1,13 @@
+# uv / Python virtualenv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
